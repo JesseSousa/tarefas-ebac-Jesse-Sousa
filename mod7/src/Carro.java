@@ -1,4 +1,8 @@
-public class Carro {
+/**
+ * @author JesseSousa
+ * @version 1.0
+ */
+class Carro {
     private String modelo;
 
     private String placa;
